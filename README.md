@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](#)
-- [Live Site URL](#)
+- [Solution URL](https://www.frontendmentor.io/solutions/3-coloumn-preview-card-tOf5Kaj2Y)
+- [Live Site URL](https://sharp-poitras-b3141c.netlify.app/)
 
 ## My process
 
